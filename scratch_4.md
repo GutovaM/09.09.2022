@@ -1,8 +1,9 @@
 ### Task 1 (6kuy)
-### Solution
+
 Given an array of integers, find the one that appears an odd number of times.
 
 There will always be only one integer that appears an odd number of times.
+### Solution
 ```Java
 public class FindOdd {
  public static int findIt(int[] a) {
@@ -31,8 +32,9 @@ public class FindOdd {
 ```
 [Task link](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 ### Task 2 (6kuy)
-### Solution
+
 Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
+### Solution
 ```Java
 class Persist {
  public static int persistence(long n) {
