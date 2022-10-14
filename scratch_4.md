@@ -31,7 +31,6 @@ public class FindOdd {
 ```
 [Task link](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 ### Task 2 (6kuy)
-
 Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
 ### Solution
 ```Java
