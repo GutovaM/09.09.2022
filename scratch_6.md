@@ -1,5 +1,6 @@
 ### Task 1 (7kuy)
-Complementary DNA                    
+Complementary DNA        
+
 Your task is to write a function which returns the sum of following series upto nth term(parameter).
 Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 
